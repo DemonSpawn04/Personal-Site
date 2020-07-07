@@ -1,3 +1,7 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
 /*TODO: Add a background color or image to your website*/
 body {
  background-color: #ffccff; 
@@ -9,10 +13,7 @@ h1 {
   color: #000000;
 }
 
-*{
-  margin: 0px;
-  padding: 0px;
-}
+
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
 
