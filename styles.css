@@ -32,11 +32,25 @@ p {
 }
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 #main-img {
-  border-radius: 50%
+  border-radius: 20%;
+  
 }
 
+ul{
+  list-style-type: none;
+  background-color: #c12adb;
+  text-align: center
+}
 
-
+li a { 
+  displayc: inline;
+  text-decoration: none;
+  olor: white;
+  font-size: 1.5em;
+  
+  
+  
+}
 /*TODO: Use the * selector to reset the margin and padding to 0px*/
 
 
